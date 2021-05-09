@@ -9,3 +9,4 @@
 3. Variational Autoencoders - Implemented
 
 ## Siamese Network
+Siamese Network are the class of Neural network architectures that contain one or more identical subnetworks. ‘Identical’ here means, they have the same configuration with the same parameters and weights. Parameter updating is mirrored across both sub-networks. It is used to find the similarity of the inputs by comparing its feature vectors, so these networks are used in many applications

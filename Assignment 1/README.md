@@ -9,4 +9,4 @@
 3. Model Selection (Implemented Models - DecisionTreeClassifier, SGDClassifier, RandomForestClassifier, AdaBoostClassifier, Light Gradient Boosting Machine and many more) and Comparing them by there Accuracy and Run time
 
 ### Model Performance over Test Dataset
-<img src = 'Main.jpg' , alt = 'Accuracy Scores'>
+![Accuracy Score](Main.jpg)
